@@ -5,8 +5,8 @@ The system controls two brushless motors (lift and thrust) through ESCs, integra
 
 ## Features
 - Brushless motor control using ESCs
-- Ultrasonic distance sensing for obstacle avoidance
 - PWM mapping from RC receiver signals
+- Ultrasonic distance sensing for obstacle avoidance
 - Battery voltage monitoring with LED warning
 
 ## Hardware
