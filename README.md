@@ -22,7 +22,7 @@ The system controls two brushless motors (lift and thrust) through ESCs, integra
 - Resistors
 
 ## Circuit Diagram
-![Circuit Diagram](docs/Circuit_Diagram.png)
+![Circuit Diagram](docs/Circuit_Diagram.PNG)
 
 ## Hovercraft Prototype
 ![Hovercraft Photo](docs/Hovercraft_Photo.jpg)
