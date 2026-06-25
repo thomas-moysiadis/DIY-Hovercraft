@@ -20,6 +20,7 @@ The system controls two brushless motors (lift and thrust) through ESCs, integra
 - LED indicator
 - Power Switch
 - Resistors
+- 13× 3D Parts
 
 ## Circuit Diagram
 ![Circuit Diagram](docs/Circuit_Diagram.PNG)
